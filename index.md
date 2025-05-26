@@ -12,3 +12,5 @@ Welcome to my blog where I document my journey into ethical hacking and cybersec
 - 🔓 My path to becoming one of the best in the field
 
 Stay tuned for regular updates!
+
+Add link to first writeup on homepage
